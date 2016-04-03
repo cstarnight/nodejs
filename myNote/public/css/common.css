@@ -1,0 +1,13 @@
+.page-title{
+    front-size:20px;
+}
+.page-nav{
+    padding:10px;
+    background-color: #cccccc;
+    margin-bottom: 30px;
+}
+.nav-username
+.nav-register,
+.nav-login{
+    margin:0 10px;
+}
